@@ -52,6 +52,10 @@ public class Basic1 {
 		System.out.println(actualAddress);
 		
 		Assert.assertEquals(actualAddress, newaddress);
+		
+		System.out.println("postJIRA");
+		System.out.println("postJIRA1");
+		System.out.println("postJIRA2");
 	}
 
 }
