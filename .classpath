@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-14">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/1/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/1/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/1/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/1/groovy-3.0.3.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/1/groovy-json-3.0.3.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/1/groovy-xml-3.0.3.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/1/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/1/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/1/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/1/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/1/jakarta.activation-api-1.2.2.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/1/jakarta.xml.bind-api-2.3.3.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/1/jaxb-impl-2.3.3.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/1/rest-assured-4.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/1/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/1/docs/json-path-4.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/1/docs/json-path-4.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/1/docs/rest-assured-4.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/1/docs/rest-assured-4.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/1/docs/rest-assured-common-4.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/1/docs/rest-assured-common-4.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/1/docs/xml-path-4.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/1/docs/xml-path-4.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/2/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/2/btf-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/2/guava-16.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/2/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/2/jackson-annotations-2.11.1.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/2/jackson-core-2.11.1.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/2/jackson-coreutils-1.9.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/2/jackson-databind-2.11.1.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/2/joda-time-2.9.7.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/2/jopt-simple-5.0.3.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/2/json-schema-core-1.2.10.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/2/json-schema-validator-2.2.10.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/2/json-schema-validator-4.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/2/jsr305-3.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/2/libphonenumber-8.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/2/mailapi-1.4.3.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/2/msg-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/2/rhino-1.7.7.1.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/2/uri-template-0.9.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/2/docs/json-schema-validator-4.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/2/docs/json-schema-validator-4.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/3/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/3/groovy-3.0.3.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/3/groovy-json-3.0.3.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/3/json-path-4.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/3/docs/json-path-4.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/3/docs/json-path-4.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/3/docs/rest-assured-common-4.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/3/docs/rest-assured-common-4.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/TestNG JAR/testng-7.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/TestNG JAR/jcommander-1.72.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/TestNG JAR/guice-4.2.2.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/Selenium/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/Selenium/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/Selenium/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/Selenium/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/Selenium/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/Selenium/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/POGO Class jars/gson-2.8.5.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/POGO Class jars/jackson-annotations-2.9.9.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/POGO Class jars/jackson-core-2.9.9.jar"/>
+	<classpathentry kind="lib" path="E:/Rest Assured API Automation/JARs/POGO Class jars/jackson-databind-2.9.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
